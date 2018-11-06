@@ -7,10 +7,10 @@
             			 max=a;
 
 **Flowchart Program**
-![Flowchart](https://github.com/fawwazdzakwan/Praktikum4/blob/master/FlowchartLat1.jpg)
+![Flowchart](https://github.com/fawwazdzakwan/Praktikum4/blob/master/Latihan1/FlowchartLat1.jpg)
 
 **Screenshoot**
-![Screenshoot](https://github.com/fawwazdzakwan/Praktikum4/blob/master/SSLat1.png)
+![Screenshoot](https://github.com/fawwazdzakwan/Praktikum4/blob/master/Latihan1/SSLat1.png)
 
 **code program lengkap**
 '''c++
@@ -39,12 +39,12 @@ int main()
 3. Membandingkan nilai variable  harga=0,harga_barang=0,total=0,bayar=0,diskon;
 
 **Flowchart Program**
-![Flowchart](https://github.com/fawwazdzakwan/Praktikum4/blob/master/flowchartLat2.jpg)
+![Flowchart](https://github.com/fawwazdzakwan/Praktikum4/blob/master/Latihan2/FlowchartLat2.jpg)
 
 **Screenshoot**
-![Screenshoot](https://github.com/fawwazdzakwan/Praktikum4/blob/master/SSlatihan2A.png)
-![Screenshoot](https://github.com/fawwazdzakwan/Praktikum4/blob/master/SSlatihan2B.png)
-![Screenshoot](https://github.com/fawwazdzakwan/Praktikum4/blob/master/SSlatihan2C.png)
+![Screenshoot](https://github.com/fawwazdzakwan/Praktikum4/blob/master/Latihan2/SSlatihan2A.png)
+![Screenshoot](https://github.com/fawwazdzakwan/Praktikum4/blob/master/Latihan2/SSlatihan2B.png)
+![Screenshoot](https://github.com/fawwazdzakwan/Praktikum4/blob/master/Latihan2/SSlatihan2C.png)
 
 **code program lengkap**
 '''c++
